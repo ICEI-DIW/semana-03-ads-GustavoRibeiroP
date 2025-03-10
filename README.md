@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Gustavi Ribeiro Pena
+- Matricula: 892106
+- Proposta de projeto escolhida: Guia de Lugares Turísticos
+- Breve descrição sobre seu projeto: Ao clicar em uma imagem, uma nova guia será aberta exibindo três pontos turísticos famosos do estado, com uma descrição e uma imagem de cada local. Ao clicar na bandeira de cada estado, outra guia será aberta, mostrando a distância e o local no Google Maps.
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](ESBOÇO.png) >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+
+
+<<  ![alt text](home-page.png) >>

@@ -1,0 +1,156 @@
+/* Estrutura */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    width: 1920px;
+    margin: auto;
+}
+
+header {
+    border-bottom: 1px solid green;
+    margin: 20px 0px 30px 0px;
+}
+
+main {
+    margin: 0px 100px;
+}
+
+footer {
+    text-align: center;
+    background: green;
+    clear: both;
+}
+
+
+/* Cabeçalho */
+
+a h1 {
+    text-align: center;
+    color: rgb(8, 114, 8);
+    font-size: 70px;
+    position: relative;
+    top: 10px;
+}
+
+header a:link {
+    text-decoration: none;
+}
+
+
+h2 {
+    margin: -80px 0px -10px 70px;
+}
+
+h4 {
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding: 8px;
+    margin: 30px 0px 25px 0px;
+    font-style: italic;
+    text-align: center;
+}
+
+.ícones {
+    width: 40px;
+    margin: -25px 0px 0px 30px;
+    display: inline-block;
+}
+
+#face {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 5px;
+}
+
+#x {
+    position: relative;
+    left: 130px;
+    width: 45px;
+    bottom: 5px;
+}
+
+#zap {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 5px;
+}
+
+#insta {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 3px;
+}
+
+#pessoa {
+    position: relative;
+    right: 280px;
+    width: 47px;
+    float: right;
+}
+
+#entrar {
+    position: relative;
+    margin: -10px 140px 0px 0px;
+    float: right;
+}
+
+#lupa {
+    position: relative;
+    left: 1400px;
+    width: 30px;
+}
+
+body header div img {
+    margin-bottom: 15px;
+    width: 200px;
+    margin: 10px 860px;
+}
+
+
+
+/* Conteúdo Principal */
+
+.geral{
+    margin: 50px 0px 80px 0px;
+    display: flex;
+}
+
+main img {
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    border: 1px solid green;
+}
+
+.cont{
+    margin: 0px 00px 0px 30px;
+}
+
+
+main a:link{
+    text-decoration: none;
+}
+
+.título {
+    color: black;
+    margin: 0px 0px 5px 0px;
+}
+
+.texto{
+    text-align: justify;
+    font-size: 20px; line-height: 1.6; color: #444;
+    border-bottom: 1px solid green;
+}
+
+h5{
+    margin: 0px 0px 5px 0px;
+}

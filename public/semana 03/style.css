@@ -1,0 +1,160 @@
+/* Estrutura */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    width: 1920px;
+    margin: auto;
+}
+
+header {
+    border-bottom: 1px solid green;
+    margin: 20px 0px 80px 0px;
+}
+
+main {
+    margin: 0px 100px;
+}
+
+footer {
+    text-align: center;
+    background: yellow;
+
+}
+
+
+/* Cabeçalho */
+
+h1 {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(8, 114, 8);
+    font-size: 70px;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    top: 10px;
+}
+
+header a:link {
+    text-decoration: none;
+}
+
+h2 {
+    margin: -80px 0px -10px 70px;
+}
+
+h3 {
+    margin: 0px 0px 0px 1630px;
+}
+
+h4 {
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding: 8px;
+    margin: 30px 0px 40px 0px;
+    font-style: italic;
+    text-align: center;
+}
+
+.ícones {
+    width: 40px;
+    margin: -25px 0px 0px 30px;
+    display: inline-block;
+}
+
+#face {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 5px;
+}
+
+#x {
+    position: relative;
+    left: 130px;
+    width: 45px;
+    bottom: 5px;
+}
+
+#zap {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 5px;
+}
+
+#insta {
+    position: relative;
+    left: 130px;
+    width: 30px;
+    bottom: 3px;
+}
+
+#pessoa {
+    position: relative;
+    right: 280px;
+    width: 47px;
+    float: right;
+}
+
+#entrar {
+    position: relative;
+    margin: -10px 140px 0px 0px;
+    float: right;
+}
+
+#lupa {
+    position: relative;
+    left: 1400px;
+    width: 30px;
+}
+
+body header div {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Conteúdo Principal */
+
+.imagens {
+
+    height: 250px;
+    float: left;
+    margin: -50px 10px 10px 0px;
+    width: 420px;
+    border-radius: 50px;
+
+}
+
+.texto1 {
+    margin: 0px 1300px 0px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.texto2 {
+    margin: -36px 450px 0px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.texto3 {
+    margin: -40px 0px 0px 450px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.texto4 {
+    margin: -50px 0px 100px 1300px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
