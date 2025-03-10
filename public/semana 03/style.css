@@ -104,13 +104,16 @@ h4 {
 
 #entrar {
     position: relative;
-    margin: -10px 140px 0px 0px;
+    margin: -30px 140px 0px 0px;
     float: right;
+    color: black;
 }
 
 #lupa {
     position: relative;
-    left: 1400px;
+    float: right;
+    bottom: 10px;
+    right: 38px;
     width: 30px;
 }
 
