@@ -22,4 +22,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 
 
-<<  ![alt text](home-page.png) 
+<<  ![alt text](home-page.png) >>
